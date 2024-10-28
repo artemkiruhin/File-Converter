@@ -1,10 +1,11 @@
-﻿using iText.Html2pdf;
+﻿using FileConverter.Services.Converters.Base;
+using iText.Html2pdf;
 using iText.Html2pdf.Resolver.Font;
 using Markdig;
 using System.Reflection;
 
 namespace FileConverter.Services.Converters {
-    public class MarkdownPDFConverter {
+    public class MarkdownPDFConverter : IConverter {
         public byte[] Convert(string markdownText) {
             var pipeline = new MarkdownPipelineBuilder()
                 .UseAdvancedExtensions()
