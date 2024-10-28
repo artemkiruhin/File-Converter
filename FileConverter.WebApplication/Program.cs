@@ -1,7 +1,12 @@
+using FileConverter.Services.Converters;
+using FileConverter.Services.Converters.Base;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddScoped<IConverter, MarkdownPDFConverter>();
 
 var app = builder.Build();
 
