@@ -7,7 +7,19 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Converters\Base\" />
+    <None Remove="Converters\Resources\styles.css" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Converters\Resources\styles.css" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BouncyCastle.NetCore" Version="2.2.1" />
+    <PackageReference Include="itext" Version="8.0.5" />
+    <PackageReference Include="itext.bouncy-castle-adapter" Version="8.0.5" />
+    <PackageReference Include="itext7.pdfhtml" Version="5.0.5" />
+    <PackageReference Include="Markdig" Version="0.38.0" />
   </ItemGroup>
 
 </Project>

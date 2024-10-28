@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "0tNmAX7MkZs=",
+  "dgSpecHash": "g0KK5SC9IXA=",
   "success": true,
   "projectFilePath": "D:\\programming\\projects\\pets\\FileConverter\\FileConverter\\FileConverter.WebApplication\\FileConverter.WebApplication.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\RogStrix\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\RogStrix\\.nuget\\packages\\bouncycastle.netcore\\2.2.1\\bouncycastle.netcore.2.2.1.nupkg.sha512",
     "C:\\Users\\RogStrix\\.nuget\\packages\\itext\\8.0.5\\itext.8.0.5.nupkg.sha512",
+    "C:\\Users\\RogStrix\\.nuget\\packages\\itext.bouncy-castle-adapter\\8.0.5\\itext.bouncy-castle-adapter.8.0.5.nupkg.sha512",
     "C:\\Users\\RogStrix\\.nuget\\packages\\itext.commons\\8.0.5\\itext.commons.8.0.5.nupkg.sha512",
     "C:\\Users\\RogStrix\\.nuget\\packages\\itext.pdfhtml\\5.0.5\\itext.pdfhtml.5.0.5.nupkg.sha512",
     "C:\\Users\\RogStrix\\.nuget\\packages\\itext7.pdfhtml\\5.0.5\\itext7.pdfhtml.5.0.5.nupkg.sha512",

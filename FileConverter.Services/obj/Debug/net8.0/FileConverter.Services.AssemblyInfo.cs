@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FileConverter.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdfd2edd7e98e70a72beb0a13ce9eeb08ebedbd1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c7910e91c0ff657d04cfbf519e21f632150eb44")]
 [assembly: System.Reflection.AssemblyProductAttribute("FileConverter.Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FileConverter.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

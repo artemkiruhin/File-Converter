@@ -1,8 +1,14 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Markdown to PDF Converter";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<h2>Markdown to PDF Converter</h2>
+
+<form enctype="multipart/form-data" method="post" asp-controller="Pdf" asp-action="convert">
+    <div>
+        <label for="markdownFile">Upload Markdown (.md) File:</label>
+        <input type="file" id="markdownFile" name="markdownFile" accept=".md" required />
+    </div>
+    <br />
+    <button type="submit">Convert to PDF</button>
+</form>

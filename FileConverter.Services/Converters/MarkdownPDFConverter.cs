@@ -42,19 +42,16 @@ namespace FileConverter.Services.Converters {
             return memoryStream.ToArray();
         }
 
-        private string? GetStyles() {
-            string stylesPatch = "FileConverter.Services.Converters.Resources.styles.css";
-
-            if (!File.Exists(stylesPatch)) throw new KeyNotFoundException("Styles not found");
+        private string GetStyles() {
+            
+            string resourcePath = "FileConverter.Services.Converters.Resources.styles.css";
 
             var assembly = Assembly.GetExecutingAssembly();
-
-            var manifestResourceStream = assembly.GetManifestResourceStream(stylesPatch) ?? throw new KeyNotFoundException("Manifest not found");
-
-            using var stream = manifestResourceStream;
+            using var stream = assembly.GetManifestResourceStream(resourcePath)
+                                ?? throw new KeyNotFoundException("Styles resource not found");
             using var reader = new StreamReader(stream);
             return reader.ReadToEnd();
-            
         }
+
     }
 }

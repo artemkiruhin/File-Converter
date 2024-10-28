@@ -1,0 +1,12 @@
+D:\programming\projects\pets\FileConverter\FileConverter\FileConverter.Services\bin\Debug\net8.0\FileConverter.Services.deps.json
+D:\programming\projects\pets\FileConverter\FileConverter\FileConverter.Services\bin\Debug\net8.0\FileConverter.Services.dll
+D:\programming\projects\pets\FileConverter\FileConverter\FileConverter.Services\bin\Debug\net8.0\FileConverter.Services.pdb
+D:\programming\projects\pets\FileConverter\FileConverter\FileConverter.Services\obj\Debug\net8.0\FileConverter.Services.csproj.AssemblyReference.cache
+D:\programming\projects\pets\FileConverter\FileConverter\FileConverter.Services\obj\Debug\net8.0\FileConverter.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\projects\pets\FileConverter\FileConverter\FileConverter.Services\obj\Debug\net8.0\FileConverter.Services.AssemblyInfoInputs.cache
+D:\programming\projects\pets\FileConverter\FileConverter\FileConverter.Services\obj\Debug\net8.0\FileConverter.Services.AssemblyInfo.cs
+D:\programming\projects\pets\FileConverter\FileConverter\FileConverter.Services\obj\Debug\net8.0\FileConverter.Services.csproj.CoreCompileInputs.cache
+D:\programming\projects\pets\FileConverter\FileConverter\FileConverter.Services\obj\Debug\net8.0\FileConverter.Services.dll
+D:\programming\projects\pets\FileConverter\FileConverter\FileConverter.Services\obj\Debug\net8.0\refint\FileConverter.Services.dll
+D:\programming\projects\pets\FileConverter\FileConverter\FileConverter.Services\obj\Debug\net8.0\FileConverter.Services.pdb
+D:\programming\projects\pets\FileConverter\FileConverter\FileConverter.Services\obj\Debug\net8.0\ref\FileConverter.Services.dll

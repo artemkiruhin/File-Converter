@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FileConverter.WebApplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bf9d4546d4049fea7a64f110c156b7dcc64a624")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c7910e91c0ff657d04cfbf519e21f632150eb44")]
 [assembly: System.Reflection.AssemblyProductAttribute("FileConverter.WebApplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FileConverter.WebApplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
